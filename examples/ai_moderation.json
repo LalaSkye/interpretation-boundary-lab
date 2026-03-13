@@ -1,0 +1,7 @@
+{
+  "source_id": "sig-mod-001",
+  "timestamp": "2025-01-15T10:30:00Z",
+  "content": "User comment flagged by automated filter: 'This product is terrible and should be recalled immediately.'",
+  "content_type": "text/moderation-flag",
+  "provenance_hash": "sha256:a1b2c3d4e5f6"
+}

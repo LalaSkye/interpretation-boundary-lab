@@ -1,0 +1,7 @@
+{
+  "source_id": "sig-legal-001",
+  "timestamp": "2025-03-10T09:00:00Z",
+  "content": "Section 4.2(a): The data processor shall implement appropriate technical measures to ensure a level of security appropriate to the risk, including encryption of personal data in transit.",
+  "content_type": "text/regulatory-clause",
+  "provenance_hash": "sha256:deadbeef0123"
+}

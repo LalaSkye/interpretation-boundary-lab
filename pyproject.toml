@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "interpretation-boundary-lab"
+version = "0.1.0"
+description = "A deterministic admissibility layer for interpretation proposals before verdict and execution."
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.10"
+authors = [
+    { name = "LalaSkye (Ricky Jones)" },
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

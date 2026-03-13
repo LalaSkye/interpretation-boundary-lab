@@ -1,0 +1,7 @@
+{
+  "source_id": "sig-safety-001",
+  "timestamp": "2025-02-20T14:15:00Z",
+  "content": "Incident report: Equipment malfunction in Sector 7. No injuries reported. Temporary shutdown of production line B initiated.",
+  "content_type": "text/incident-report",
+  "provenance_hash": "sha256:f6e5d4c3b2a1"
+}
